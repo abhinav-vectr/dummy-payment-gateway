@@ -1,0 +1,10 @@
+fastapi==0.109.2
+uvicorn[standard]==0.27.1
+SQLAlchemy>=2.0.35
+alembic==1.13.1
+psycopg2-binary==2.9.11
+pydantic>=2.8.0
+pydantic-settings>=2.2.0
+httpx==0.26.0
+python-dotenv==1.0.1
+cors==1.0.1
