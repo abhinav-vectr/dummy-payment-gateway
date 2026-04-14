@@ -8,4 +8,4 @@ pydantic-settings>=2.2.0
 httpx==0.26.0
 python-dotenv==1.0.1
 cors==1.0.1
-asyncpg
+
